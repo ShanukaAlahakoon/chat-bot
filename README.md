@@ -1,8 +1,8 @@
-# 🧠 Elegant Gemini RAG Chatbot 🤖📄
+# 🧠 KnowledgeBot — AI Document Companion 🤖📄
 
 ## 📜 Overview
 
-Welcome to the Elegant Gemini RAG Chatbot! This Retrieval-Augmented Generation (RAG) chatbot uses Google Gemini for powerful, context-aware answers based on uploaded PDF documents. It stores document embeddings in ChromaDB, allowing fast retrieval of relevant passages which Gemini then uses to generate grounded responses.
+Welcome to the KnowledgeBot! This Retrieval-Augmented Generation (RAG) chatbot uses Google Gemini for powerful, context-aware answers based on uploaded PDF documents. It stores document embeddings in ChromaDB, allowing fast retrieval of relevant passages which Gemini then uses to generate grounded responses.
 
 Key capabilities:
 
@@ -31,7 +31,7 @@ Key capabilities:
 ### 🔧 Clone the repository
 
 ```powershell
-git clone https://github.com/yourusername/gemini-rag-chatbot.git
+git clone https://github.com/ShanukaAlahakoon/chat-bot.git
 cd gemini-rag-chatbot
 ```
 
