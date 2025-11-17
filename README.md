@@ -31,7 +31,7 @@ Key capabilities:
 ### 🔧 Clone the repository
 
 ```powershell
-git clone https://github.com/yourusername/gemini-rag-chatbot.git
+git clone https://github.com/ShanukaAlahakoon/chat-bot.git
 cd gemini-rag-chatbot
 ```
 
