@@ -1,0 +1,4 @@
+venv\
+.env
+uploaded_files
+db
